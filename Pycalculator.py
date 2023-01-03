@@ -6,7 +6,7 @@ oparetor = input('''
 2.Substraction(-)
 3.Multipication(*)
 4.Division(/)
-5.Power(^)
+5.Exponentiation(^)
 6.Factorial(!)
 Choose a oparetor(1/2/3/4/5/6): ''')
 if oparetor == "1":
