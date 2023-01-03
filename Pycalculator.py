@@ -22,4 +22,4 @@ elif oparetor == "5":
 else:
     print("ERROR!!!")
 print("Credit goes to Tanvir")
-print("VISIT  https://github.com/tanvirrahmanfahim?tab=repositories")
+print("VISIT https://github.com/tanvirrahmanfahim ")
